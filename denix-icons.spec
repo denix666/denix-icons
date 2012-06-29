@@ -1,6 +1,6 @@
 Name:           denix-icons
 Version:        1.0
-Release:        1%{?dist}
+Release:        2%{?dist}
 Summary:        Desktop icons
 Group:          Other
 License:        unknown
